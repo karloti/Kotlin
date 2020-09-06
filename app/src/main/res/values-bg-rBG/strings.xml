@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="roll_label">Завърти</string>
+    <string name="button">Увеличи с 1</string>
+    <string name="app_name">Хвърли зарчета</string>
+    <string name="textText">Здравей свят!</string>
+</resources>
